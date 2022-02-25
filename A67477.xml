@@ -1,0 +1,669 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Health's new store-house opened offering to familiar use such supplies as are most wanting and really needful to humane frailty. By health's student.</title>
+            <author>Walwyn, William, 1600-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67477</idno>
+            <idno type="STC">Wing W683A</idno>
+            <idno type="STC">ESTC R219279</idno>
+            <idno type="EEBO-CITATION">99830769</idno>
+            <idno type="PROQUEST">99830769</idno>
+            <idno type="VID">35223</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67477)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35223)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1878:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Health's new store-house opened offering to familiar use such supplies as are most wanting and really needful to humane frailty. By health's student.</title>
+                  <author>Walwyn, William, 1600-1681.</author>
+               </titleStmt>
+               <extent>[4], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Jane Clowes, and are to be sold by John Sweeting at the Angel in Popes-head-Alley over against the Royal Exchange in Corn-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed W.W. i.e. William Walwyn.</note>
+                  <note>Identified on UMI microfilm set "Early English books, 1641-1700", reel 1878:3 as Wing W147 (number cancelled).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Health --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35223:1" rendition="simple:additions"/>
+            <p>HEALTHS NEW STORE-HOUSE OPENED, Offering to Familiar Uſe Such Supplies AS ARE Moſt wanting and Really needful to Humane Frailty.</p>
+            <p>By <hi>HEALTH'S Student.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Jane Clowes,</hi> and are to be ſold by <hi>John Sweeting</hi> at the <hi>Angel</hi> in <hi>Popes-head-Alley</hi> over againſt the <hi>Royal Exchange</hi> in <hi>Corn-hill,</hi> 1661.</p>
+            <pb facs="tcp:35223:2"/>
+            <pb facs="tcp:35223:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:35223:3"/>
+            <pb facs="tcp:35223:3"/>
+            <head>To the Reader.</head>
+            <p>IS it uncivil to adviſe a Reader? poſſibly it i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: And to little purpoſe to perſwade an unbia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s'd e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tertainment of theſe friendly Aydes: It being the unhappine<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of moſt times, to put off the accep<g ref="char:EOLhyphen"/>tance of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew Di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>coveries, till 'tis too late, and to lea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the benefit to be en<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>red by the next Generation: Jealou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie, e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vy, fear of l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs, being of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> too ſtrong for Truth: a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, if theſe were not; or could be ſilent; yet Wi<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>-it-Self i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> apt to d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oll away their uſe.</p>
+            <p>A Scoff is a leight thing but often ſadly paid <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r: the Min<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> highly <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> da<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing to ſtoop to the embrace of what it hath <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deſpi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, though it would ſave its li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e is every evil followed <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th its o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> puniſhment.</p>
+            <p>A me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry heart, therefore, joyn'd with Prudence, co<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iders <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ri<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>y be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udges; thinks thr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e before i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſped<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s: and, though apt to jeſt, yet is moſt watchfull againſt in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ury to any thing, deeming due ch<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s bondage.</p>
+            <p>Why ſhould it be Imagin'd, amid'ſt ſo much weak<g ref="char:EOLhyphen"/>neſs, that nothing's wanting: or, that things more perti<g ref="char:EOLhyphen"/>nent cannot be ſupplyed? Or, why things propoſed in na<g ref="char:EOLhyphen"/>ture of friendly and powerfull aſſiſtance ſhould not be ſo indeed? Theſe are tendered to familiar uſe, ſuch as the weakeſt Women, and ſmalleſt Children, may ſafely take. In ſuch a caſe as this then, what cauſe is there of ſuſpicion, but to taſt and try, and ſo put all, paſt all diſpute?</p>
+            <pb facs="tcp:35223:4"/>
+            <p> Which may be done alſo without Charge: ſo confident is the preſent keeper of the Store-houſe, which now ſtands always open, for entertainment of the Ingenious; and to make good its Title: Read on therefore without ſcruple, and be ſatisfied with the reality of its proviſi<g ref="char:EOLhyphen"/>ons, and of the Integrity of</p>
+            <closer>
+               <signed>The Servant of your health, W. W.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:35223:4"/>
+            <head>HEALTHS NEW Store-Houſe Opened.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hough the youngeſt and the ſtrongeſt days of life, are the times to lay in for, and to ſecure, a long-laſting and healthfull Conſtitution and the times of health, to provide againſt the fre<g ref="char:EOLhyphen"/>quent aſſaults of ſickneſs and diſtem<g ref="char:EOLhyphen"/>per, yet to moſt of either Sex, the voyce of Experi<g ref="char:EOLhyphen"/>ence ſeldome ſeems better then a mockery. Tell them of their daily waſt and expence of ſpirit, of their conti<g ref="char:EOLhyphen"/>nual generating within them the ſeeds of ſickneſs &amp; diſ<g ref="char:EOLhyphen"/>caſes, they hear you not; they are for this Gameſom
+<pb n="2" facs="tcp:35223:5"/> ſport, and t'other wild and violent Exerciſe, and if taken ill, do as others uſe to do, recover with difficul<g ref="char:EOLhyphen"/>ty, with loſſe of blood and Spirits, boaſt of danger eſca<g ref="char:EOLhyphen"/>ped, little or nothing regarding how deeply their nature is thereby wounded, and ſo remain as unapt for counſel as before.</p>
+            <p>And yet, as it is the ſureſt way <hi>to eternal bliſs, to re<g ref="char:EOLhyphen"/>member thy Creator in the days of thy Youth:</hi> ſo is it the moſt certain way, <hi>to the happineſs of this Life,</hi> (which reſts very much in mans health and chea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ful<g ref="char:EOLhyphen"/>neſs) to give diligent heed betimes, to thoſe advices wch reſpect the well ordering of the Body, both as to Di<g ref="char:EOLhyphen"/>et, Phyſick, and Refreſhment; and to endeavour after ſo much skill, at leaſt, as to be able to diſtinguiſh be<g ref="char:EOLhyphen"/>tween <hi>pure</hi> and <hi>impure, proper</hi> and <hi>improper, unto man;</hi> who being of Creatures next unto the Angels, both in his intellects and conſtitution, ought to aim at ſo effectual and ſo refined a Diet, that the faculties of his Soul, may be accommodated with ſo exquiſite a Spi<g ref="char:EOLhyphen"/>rit and ſo clear a Body, that there may be a perfect Harmony in the whole <hi>Man.</hi>
+            </p>
+            <p>And as theſe Conſiderations are moſt needful i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> time of Youth, in which the moſt are apt to ſet light by all things which moſt concern them; ſo are they not to be neglected by thoſe of riper years, who commonly are ſo much wedded to their cuſtomary wayes, that if they keep themſelves but any thing hearty and free from pain, deem their Diet good, and themſelves Well enough; though they are either ſad and melancholy, fearful, ſuperſtitious, fretful, paſſionate, covetous, violent, and revengeful: All which may proceed (and doth commonly) from the impropriety of Spirits in what they feed on, or uſe for helps; and might be o<g ref="char:EOLhyphen"/>therwiſe
+<pb n="3" facs="tcp:35223:5"/> without difficulty, to the much more comfort of themſelves and their relations.</p>
+            <p>Nor are the Elder ſort unconcerned herein: it being too much from that ſcrupuloſity which dwells in them, and their diſtruſt of all new Diſcoveries; which makes the younger ſort ſo unapt to give ear, or credit, to Counſels of this nature: What? (ſay they) have we lived to theſe years, and do we not know what's good for our ſelves? and this too, though they a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e full of infirmities, of which by new Aids they might be diſ<g ref="char:EOLhyphen"/>charged; forgetting alſo that no mere man was ever yet too old to learn.</p>
+            <p>But hence it is, That although both Diet and Phy<g ref="char:EOLhyphen"/>ſick, in their beſt and largeſt forces, do but weakly per<g ref="char:EOLhyphen"/>form their offices; the firſt of Suſtentation, the other of Reſtoration; and, that mans health (which is ſo great a part of his happineſs) is ſo weakly defended that the ſtrongeſt are ſoon brought upon their knees, whil'ſt the weak and ſickly in their firſt illneſs (the time which makes or marrs the cure) betaking themſelves to dull putrid, and burning helpers (for want of what's ſafe and kindly) inſtead of help betray themſelves to further miſchief. Yet all <hi>Tenders</hi> of farther improvement ei<g ref="char:EOLhyphen"/>ther to Diet or Phyſick, or other Ayde, though never ſo needful, pretious, and effectual, are hardly and ſow<g ref="char:EOLhyphen"/>erly entertained; and under ſuch regardleſneſſe, as if there were nothing but deluſion in men, or an impoſſi<g ref="char:EOLhyphen"/>bility of adding any advancement to the imperfit Art of Health.</p>
+            <p>Through which unpreparedneſſe, averſneſſe, and indiſpoſition to receive with gladneſſe and gratitude, the productions of the ſtudious, it is, That although the defects in Phyſick, Diet, &amp;c. are ſo manifeſt, that the
+<pb n="4" facs="tcp:35223:6"/> 
+               <hi>moſt Skilful</hi> profeſſe they believe, <hi>the far better part lies undiſcovered:</hi> yet to make any conſiderable ſup<g ref="char:EOLhyphen"/>plies, it ſufficeth not by Study, Labour and Induſtry, to produce things excellent and neceſſary; except all poſſible means be likewiſe uſed, to make their virtues and effects publickly and throughly underſtood, and that in ſuch ſort, as to convince all ſcrupulous gain<g ref="char:EOLhyphen"/>ſayers.</p>
+            <p>Theſe (and ſuch like) are the cauſes of the preſent Opening of this new Store-houſe of Health, the cloſe keeping thereof being of little more advantage then a Candle ſet under a Buſhel.</p>
+            <p>The new Aids therein preſented, are in an allowed and Phyſical ſenſe Spiritual, untainted, friendly and powerful, as being propoſed for an immediate aſſiſtance unto that natural ſpirit of man, by which the Soul is united to the Body, and which maintained in its right eſtate and condition, ſuſtaineth all its infirmities: ſo as this a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d is proportioned for ſupply of thoſe Forces and Powers, which both Diet and Phyſick hath hitherto but faintly furniſhed; for though <hi>properly</hi> they are neither Phyſick nor Diet, yet are they in aid of both, by ſtrength<g ref="char:EOLhyphen"/>ening appetite and diſgeſture, by rectifying and quick<g ref="char:EOLhyphen"/>ening all the natural faculties, by opening and clearing all the moſt ſecret paſſages of the Body: and either ſpeedily d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſcharging the Diſtemper, or laying a ſure foundation for farther help: beſides, by their benign qua<g ref="char:EOLhyphen"/>lities, and true Humane Temperature, they are the moſt acceptable Food of the ſpirit, the joy of the Heart, and delight of Life; and, as the genuine heat of the Sun brought into the inward parts: ſuch and no other are their heat and comfort.</p>
+            <pb n="5" facs="tcp:35223:6"/>
+            <p> And through whoſe variety and ſpecifique vertues, hardly any diſtemper can befall, but there is amongſt them for fit relief, even in all diſtreſſes and occaſions; and that with ſuch ſafety and innocency, that although they have been frequently uſed by the weakeſt, both of men, women and Children, in their moſt weak and ſick<g ref="char:EOLhyphen"/>ly eſtates; yet never any thing but good was ever re<g ref="char:EOLhyphen"/>ceived from them: ſo as theſe arrive happily to take place of all burning, drying, and impure helpers, ſo much complain'd of in former times, yea and warn'd againſt (though little regarded): as in theſe and the like ſenſible expreſſions. <q>I adviſe the healthy (much more the weak) to beware of thoſe burning liquors, which be<g ref="char:EOLhyphen"/>guile the unadviſed World (chiefly in times of mirth and refreſhment): The Life of man (or his Spirit) is in the Blood, which Blood is mild, and quickly dry<g ref="char:EOLhyphen"/>ed up with violent heat.</q>
+            </p>
+            <p>
+               <q>Such as the Blood is, ſuch are the <hi>Spirits</hi> (for they iſſue from the Blood it ſelf) and ſuch as the Spi<g ref="char:EOLhyphen"/>rits are, ſuch is the temper or diſtemper of the Brain and Heart; and ſuch as the Brain is, well or ill diſ<g ref="char:EOLhyphen"/>poſed, ſo alſo are the virtues of Imagination, Under<g ref="char:EOLhyphen"/>ſtanding, and Memory.</q>
+            </p>
+            <p>
+               <q>Proper and true humanized helps to Diet and Phy<g ref="char:EOLhyphen"/>ſick (ſuch as theſe), are therefore of more moment then can ſuddenly and curſorily be imagined: For, as another learned one ſaith, The Meat and Drink which we Diet on, or at leaſt the better part, is terminated into humours, and at laſt into <hi>Spirits,</hi> by whoſe effi<g ref="char:EOLhyphen"/>cacy, the Fleſh, Nerves, Bones, and all parts of the body are nouriſhed, and augmented, and do, by the never-tyred work of ſupply, repair decaying na<g ref="char:EOLhyphen"/>ture. Of ſo great uſe are <hi>Spirits</hi> to the body; and ſo
+<pb n="6" facs="tcp:35223:7"/> exceedingly beneficial are al kindly means, wch increaſe and improve them: The truth is, in that warfare which is maintained all our life-long, twixt health and ſick<g ref="char:EOLhyphen"/>neſſe, the main Agents in our defence are our natural Spirits; yea ſo material unto life, have the wiſeſt ever deemed them, that they have aſſigned them to be like little indiſcernable Chains. 'To unite and faſten the Soul to the Body, and which diſſolving, the diſſoluti<g ref="char:EOLhyphen"/>on of the whole Fabrick ſoon followeth.</q>
+            </p>
+            <p>Which office and effect of <hi>Spirits,</hi> whoever duly weighs, will ſoon perceive, that as nothing is or can be of greater importance to mans health, than the plen<g ref="char:EOLhyphen"/>teous contribution of Genuine and Benign Spirits; ſo alſo that the true Improving Virtue of all things taken into the Body, dependeth upon their verſion to the true Humane Temperature. Which being the peculiar qualification and proper work of thoſe Moderate Spi<g ref="char:EOLhyphen"/>rits with which this little Store-houſe is furniſhed, renders them moſt kindly and powerful aſſiſtants to Humane Frailty, and an improvement of the Art of Health; of great importance, and not to be deſpi<g ref="char:EOLhyphen"/>ſed.</p>
+            <p>Having thus expreſt ſufficient to induce a belief, that they are ſuch an aſſiſtance to mans Nature as is really wanting, needfull and effectual for ſupply of the daily waſt and expence of Spirit, for heightning and recti<g ref="char:EOLhyphen"/>fying of Diet, Medicine, and Refreſhment, and for re<g ref="char:EOLhyphen"/>lief in all neceſſities and extremities: Take a view of them in their particular Titles, Vertues, and Uſes, as followeth: And as</p>
+            <pb n="7" facs="tcp:35223:7"/>
+            <p>
+               <table>
+                  <head>They are alwayes to be had, at the <hi>Star</hi> in the <hi>Po<g ref="char:EOLhyphen"/>ſtern-Street,</hi> joyning to little <hi>Moor-fields,</hi> viz.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l. s. d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1. <hi>Amicus Vitae:</hi> Good in all Surfets, Colds, Agues, <hi>&amp;c.</hi> at the Pint.</cell>
+                     <cell>00-01-00</cell>
+                  </row>
+                  <row>
+                     <cell>2. <hi>Sarguis Vitae:</hi> In all Diſtempers of Stomach and Bowels, at</cell>
+                     <cell>00-02-00</cell>
+                  </row>
+                  <row>
+                     <cell>3. <hi>Ad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>utrix Vitae:</hi> To procure Appe<g ref="char:EOLhyphen"/>tite and Digeſture: A pleaſing Cordial.</cell>
+                     <cell>00-02 00</cell>
+                  </row>
+                  <row>
+                     <cell>4. <hi>Vis Vitae:</hi> For Dropſie, Scurvy, Spleen, Wind, Gravel.</cell>
+                     <cell>00-03-00</cell>
+                  </row>
+                  <row>
+                     <cell>5. <hi>Succus Vitae:</hi> For Convulſion, Paſ<g ref="char:EOLhyphen"/>ſie, Falling-ſickneſſe, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>00-05-04</cell>
+                  </row>
+                  <row>
+                     <cell>6. <hi>La<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Vitae:</hi> For Rickets, Wormes, Green-ſickneſſe, Mother-Fits.</cell>
+                     <cell>00-05-04</cell>
+                  </row>
+                  <row>
+                     <cell>7. <hi>Ra<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ix Vitae:</hi> In Coughs, Shortneſs of Breath, Paſſions of the Heart, Vo<g ref="char:EOLhyphen"/>mitings, Looſeneſs, Gripings, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>00-06-00</cell>
+                  </row>
+                  <row>
+                     <cell>8. <hi>Nutrix Vitae:</hi> For Conſumptions Defluxions; a great ſtrengthner.</cell>
+                     <cell>00-08-00</cell>
+                  </row>
+                  <row>
+                     <cell>9. <hi>Salus Vitae:</hi> For all Caſes, Infecti<g ref="char:EOLhyphen"/>ons, Peſtilential, or Dangerous.</cell>
+                     <cell>00-08-00</cell>
+                  </row>
+                  <row>
+                     <cell>10. <hi>Medulla Vitae:</hi> For Waſtings, and all Weakneſſes.</cell>
+                     <cell>00-12-00</cell>
+                  </row>
+                  <row>
+                     <cell>11. <hi>Deliciae Vitae:</hi> Againſt Sadneſs, Me<g ref="char:EOLhyphen"/>lancholly; a great Reviver.</cell>
+                     <cell>01-00-00</cell>
+                  </row>
+                  <row>
+                     <cell>12. <hi>Stella Vitae:</hi> (Not ſo milde) in Swounings, and all Extremities.</cell>
+                     <cell>00-12-00</cell>
+                  </row>
+                  <row>
+                     <cell>13. <hi>Ignis Vitae:</hi> (Very high) in Lethar<g ref="char:EOLhyphen"/>gies, Dulneſſe of ſight, &amp;c.</cell>
+                     <cell>00-16-00</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="8" facs="tcp:35223:8"/>
+            <p>
+               <hi>There are alſo divers others.</hi> AS, Spirits of <hi>Oranges, Lemons, Cinamon, Cloves, Roſe<g ref="char:EOLhyphen"/>mary, Angelica, Mint, Saffron, Bawm, Clary, Wormwood, Mace, Nutmegs,</hi> &amp;c. the ver<g ref="char:EOLhyphen"/>tues and uſes whereof are ſo generally known, as needs no information.</p>
+            <p>All extracted with ſuch ſpecial regard to the true hu<g ref="char:EOLhyphen"/>mane Temperature, as renders them of ſingular uſe in all conditions, eſpecially to ſuch whoſe weaker Conſtitu<g ref="char:EOLhyphen"/>tions require Mild and Gentle Helpers; being called <hi>Spirits,</hi> not for their Heat, but from their ſublime Purity and Vivacity, which are more <hi>Spiritual</hi> Quali<g ref="char:EOLhyphen"/>ties, and through which their Operations are not for<g ref="char:EOLhyphen"/>cible and violent, but (like Benign Influences) quiet, ſecret, ſure, and moſt effectual.</p>
+            <p>So ye have here a large variety of powerful Aſſiſtan<g ref="char:EOLhyphen"/>ces to humane Frailty, with whoſe virtues, who ever throughly acquaint themſelves, may eaſily and plea<g ref="char:EOLhyphen"/>ſantly recrute their continual expence of Spirits, and (in their familiar uſe) and ſtrength and vigour to their uſual diet; ſolace and recreate themſelves with real ad<g ref="char:EOLhyphen"/>vantage to their healths, and ſupply all ſudden exigen<g ref="char:EOLhyphen"/>cies without fear of after-inconveniences.</p>
+            <p>Thoſe now, who know not by ſad experience, the difficulty of gaining credit to truths of this kind, might well ſuppoſe enough had already been expreſſed; to perſwade at leaſt a taſt and tryal of theſe, if not a fair and clear acceptation: But ſo great a prejudice againſt
+<pb n="9" facs="tcp:35223:8"/> new Diſcoveries, remains upon the minds of the moſt by abuſe of Deveivers: That what hath been ſaid in their behalf, will hardly prevail for ſuch a reliance upon their uſe, as their virtues really deſerve: Therefore to ſilence all oppoſers, and to obtain their chearful em<g ref="char:EOLhyphen"/>bracement; take here the ſure teſtimony of ſome in<g ref="char:EOLhyphen"/>ſtances of their happy victories and ſucceſſes in divers remarkable caſes and conflicts. Wherein though the Studier and Producer of them have much to ſay for dai<g ref="char:EOLhyphen"/>ly benefits to himſelf and relations (too numerous to recount): yet knowing, whoever duly weighs the other inſtances, will eaſily conclude, They muſt needs have been moſt ſerviceable, where they have been moſt em<g ref="char:EOLhyphen"/>ployed: he refers wholly to their other performances and cures elſe where.</p>
+            <p>The firſt of which ſhall be of a <hi>Child</hi> about four years old, that had long time been extream ill through a Fe<g ref="char:EOLhyphen"/>veriſh Diſtemper: The Parents uſing the advice of Phy<g ref="char:EOLhyphen"/>ſitians and all good means for recovery, yet prevailed nothing; ſo that the Child was utterly waſted, and no hope of Life remain'd; his Father hearing of theſe <hi>Spi<g ref="char:EOLhyphen"/>rits,</hi> deſired he might try ſome of them; ſo he took a Glaſs ſomewhat like a ſucking-bottle, holding about a quarter of a pint of the <hi>Radix Vitae:</hi> Which the Child liking, kept it allwayes in his hand and fell to ſucking of it a little and a little continually, and grew ſome<g ref="char:EOLhyphen"/>what lightſome upon it; the Father ſeeing it, beſtow<g ref="char:EOLhyphen"/>ed as much more upon him, which he took in like man<g ref="char:EOLhyphen"/>ner; and after that as much again, with which, through Gods bleſſing, he became perfectly well.</p>
+            <p>The ſecond ſhall be of an Ancient weak <hi>Woman</hi> fal'n into a tedious fit of ſickneſſe, Feaveriſh, and ſo ſtuft in her breaſt, as ſhe was even breathleſs. Much means
+<pb n="8" facs="tcp:35223:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:35223:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:35223:10"/> of phyſick by Counſel of phyſicians ſhe had uſed, but left hopeleſs of all She underſtanding of my ſpirits, ſent for about a pint of the <hi>Radix vitae:</hi> and a while after that another; and ſoon after that another: by the uſe whereof continually a little and a little, ſhe became hearty and well again. But near upon a twelvemonth after fell ſick again, and then timely betaking her ſelf to the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emedy, ſhe with ſomewhat a leſs quan<g ref="char:EOLhyphen"/>tity recove<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d. And again about a year after that fal<g ref="char:EOLhyphen"/>ling ill again, b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the very ſame means again recovered and continued well for about twelve or fourteen moneths, as well as her years conſidered could be ex<g ref="char:EOLhyphen"/>pected.</p>
+            <p>The third I ſhall inſtance, is a <hi>Young Gentleman</hi> a ſtudent belonging to <hi>Cambridge,</hi> in ſo deep a melan<g ref="char:EOLhyphen"/>cholly of minde, ſo diſordered a body, and ſo dejected and perplexed a countenance, as can hardly be imagi<g ref="char:EOLhyphen"/>ned: ſtomach, and head, and ſpleen, and liver, and bowels, and heart it ſelf, all confounded: was quite wea<g ref="char:EOLhyphen"/>ried with phyſick and utterly hopeleſs of remedy; his underſtanding being exerciſed in nothing ſo much as in proving to himſelf an impoſſibilty of recovery, and in thwarting all reaſonings to the contrary. He was brought unto me by one who had a very good eſteem of my ſpirits; he was very unapt to diſcourſe with me, tak<g ref="char:EOLhyphen"/>ing no pleaſure to ſpeak at all, ſo as I was fain to fall in<g ref="char:EOLhyphen"/>to a continued diſcourſe for a good ſeaſon, ſhewing ſome grounds of a hopeful progreſs towards ſuch effects as in probability could not fail in ſome rea<g ref="char:EOLhyphen"/>ſonable time, even inſenſibly and pleaſantly to re<g ref="char:EOLhyphen"/>ſtore him to his native (or a better) tempe<g ref="char:EOLhyphen"/>rature. It wrought quick and effectual with him, for he was of a ſharp and ſuddain apprehenſion. We fell into
+<pb n="11" facs="tcp:35223:10"/> full diſcourſes: and he became willing to taſt my ſpirits which appearing above what he had conceived of them, he became ſuddainly full of hope, and ſo fell into the uſe, principally of the <hi>vis vita</hi> and Roſemary which indeed were very proper for him: he uſed of them a<g ref="char:EOLhyphen"/>bout three moneths time, yet in no great quantity; but ſuch an alteration did it produce in him, ſo ſprightly confident, diſcreet, and manly, ſtrong, healthful, and chearful, that there could not be more difference be<g ref="char:EOLhyphen"/>tween any two men, then was between what I ſaw him at firſt, and what he was at laſt, to the joy and comfort of himſelf and all his friends; for which the Author of all means of health be ever bleſſed and magni<g ref="char:EOLhyphen"/>fied.</p>
+            <p>The fourth Inſtance, ſhall be of a man of middle age; who had been a long time under an extream ſickneſs: and had uſed much means with advice in phyſick, but ſtill became worſe and worſe. A friend of his who had taſted of my ſpirits, recommended their uſe unto him as what was likely to do him good, ſo I recei<g ref="char:EOLhyphen"/>ved a letter (it being many miles from <hi>London)</hi> wherein I was made acquainted with his ſad condition whereupon I ſent him a pint of <hi>Ra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ix vitae</hi> &amp; a quarter of a pint of <hi>Salus vitae,</hi> with directions for their uſe: he was to take them in leſs then a weeks time, the which he did: in all which time he found no great alteration, but immediately after there came powring from him upward (not like vomitting being wholly without pain or ſtraining) ſuch abundance of thickned ropy flegm as was incredible; ſoon after which he became through<g ref="char:EOLhyphen"/>ly well and hearty.</p>
+            <p>A fifth, I ſhall Inſtance, is of a Woman about the age of thirty, taken with a moſt violent pain about her heart,
+<pb n="12" facs="tcp:35223:11"/> which continued with ſuch fierceneſs that ſhe thought her heart would rend in pieces: ſhe ſent for a ſmall quantity of <hi>Radix vitae,</hi> little more then an ounce; but her husband coming home and ſeeing in what ſtate ſhe was, ſent for half a pint, and cauſed her to take plentiful of it until ſhe had by degrees taken it all: up<g ref="char:EOLhyphen"/>on which ſhe became compleatly well that very night, and continued ſo without any the leaſt ill effect fol<g ref="char:EOLhyphen"/>lowing. Which I the rather urge becauſe ſome abuſive Artſmen envying their effects, have detained divers from their uſe, affirming, that although they give eaſe, yet ill effects follows; which is not in any meaſure true: for in whatſoever caſe I have uſed them, either alone or mixt, I never perceived the leaſt bad effect, nor e<g ref="char:EOLhyphen"/>ver heard of any from any that ever uſed them; nor ever was I entertained with any pretence of after-claps, but from the party laſt mentiored, that was cured by the <hi>Radix</hi> and <hi>Salus:</hi> he indeed being brought to me by his friend many moneths after, thanking me for the good he had received; his friend with a tragical coun<g ref="char:EOLhyphen"/>tenance interrupting him, ſaid, Indeed he had been cu<g ref="char:EOLhyphen"/>red by what was ſent him, but yet a ſtrange thing fol<g ref="char:EOLhyphen"/>lowed upon it. I liſtened ſomewhat carefully what it might be, as being very ſtrange to hear of any ſad ef<g ref="char:EOLhyphen"/>fects: whereupon he ſmilingly told me his wife had brought him two children at a birth, and ſo ended the ſad ſtory, which I relate to convince the envious of their folly, and to clear my Spirits from ſuch abſurd Aſperſions.</p>
+            <p>And other Inſtance, is of a young Child extreamly weakned with long ſickneſs, feaveriſh, and exceedingly ſtuffed in the breaſt and ſtomack, with a continual Cough, and refuſing all ſuſtenance: the Father being
+<pb n="13" facs="tcp:35223:11"/> well acquainted with the vertue of my <hi>Lac vita</hi> gave ſome of it to the child, and though it be not of the moſt pleaſant taſte amongſt them, yet the child fell in love with it, and continually lay ſipping of it, and ſo continued till it became perfectly well. The Father of this child imputes much of his own health thereun<g ref="char:EOLhyphen"/>to alſo; and hath done to divers very much good with it: Amongſt others, being where a boy had burn'd his eyes with Gun-powder by a ſquib, and divers means being uſed to quench the heat &amp; inflammation which ſo exceedingly pained the boy, that he roared again; This tender-hearted man grieving to ſee him in ſuch miſery, be thought himſelf, that certainly that which hurt not a child taken inwardly, but did ſo much good to the in<g ref="char:EOLhyphen"/>ward parts, might be as good for the tendereſt outward parts; ſo fell to bathing the boy's eyes therewith, which ſuppreſt the heat immediately and gave him eaſe, when other hopful things, uſual in ſuch caſes, had been ap<g ref="char:EOLhyphen"/>plied in vain.</p>
+            <p>An other Inſtance I have of one of middle age, who upon the leaſt taking cold a Cough ſeizes him with that extremity as brings him to Death's door, being of a Conſumptive body: but having alwayes in readi<g ref="char:EOLhyphen"/>neſs, either the <hi>Radix</hi> or the laſt named <hi>Lac vitae,</hi> he enjoyes an indifferent ſtate of health.</p>
+            <p>An other Inſtance, is of a Gentlewoman in Labor long and tedious, and at length ſo ſpent as her friends feared both mother and child; all uſual cordials failing, which being underſtood by a moſt noble perſon he ſent for a ſmall quantity of my <hi>Radix vitae;</hi> which taking both ſhe and her child were inſtantly in the deſired condition, and this with the value of ſo ſmall a parcel of mony as a ſix pence: which I recite, becauſe the envi<g ref="char:EOLhyphen"/>ous
+<pb n="14" facs="tcp:35223:12"/> diſcourage many from their uſe by ſaying, They are chargeable. Indeed, they are pleaſant and of familiar uſe, and may by an exceſſive uſe be made chargeable; but ſo ſmall a quantity does ſo much good, that if adviſed<g ref="char:EOLhyphen"/>ly uſed, I believe thoſe who repine at their ſucceſs could hardly produce cheaper phyſick in ſuch diſtreſſed caſes.</p>
+            <p>An other Inſtance, I have of a middle-aged Woman in a moſt ſad and diſmal condition much like the <hi>Cam<g ref="char:EOLhyphen"/>bridge</hi> ſcholler before-mentioned. A friend of hers that had of my <hi>Sanguis Vitae</hi> for his family, gave her a taſte of it; which ſo much revived her that ſhe deſired him being to come for <hi>London,</hi> to acquaint me with her condition, which he did. And I ſent her a pint of the ſame with directions how to take it; eſpecially to hold it in her mouth long, before ſhe ſwallowed it (which I find of great benefit in all): ſhe took that, and ſent for more, till ſhe recovered into a very happy and chearful ſtate of health, both in body and mind.</p>
+            <p>An other inſtance, is of a woman ever apt to miſ<g ref="char:EOLhyphen"/>carry being young with child, and ſubject to pains and weakneſs in the ſmall of her back, I gave her only two ounces of the <hi>Medulla vitae,</hi> which ſhe was to take a good ſpoonful at a time in a meſs of Oatmeal, and milk to her breakfaſt every morning, which without more help ſetled her in a good condition, and the next birth ſhe had was of two hopeful boyes at once.</p>
+            <p>An other of a gentleman of quality and far in years, about fourſcore, and though of a good and wary diet; yet exceeding impotent in all his faculties, weak ap<g ref="char:EOLhyphen"/>petite bad diſgeſture, his breath tainted, ſhort, and un<g ref="char:EOLhyphen"/>quiet ſleeps; with much difficulty retaining his water,
+<pb n="15" facs="tcp:35223:12"/> drooping in countenance, and very feeble in all parts who by the continual uſe night and day of my ſpi<g ref="char:EOLhyphen"/>rits for near upon two years, obtained good appetite and ſtrong diſgeſture, and ſo apparently renewed in all parts that he became the wonder of all that knew him; &amp; I am confident could not by any perſwaſion be drawn from the uſe of them, which ſome endeavouring to do by telling him that his body being uſed to them will al<g ref="char:EOLhyphen"/>ways look for them (which is another way of pollicy ſome uſe to withhold people from their uſe) his an<g ref="char:EOLhyphen"/>ſwer was that he was glad his body lookt for that which did him ſo much good: &amp; that it ſhould not want there<g ref="char:EOLhyphen"/>of ſo long as he could ſupply it, and ſo inſtead of be<g ref="char:EOLhyphen"/>ing diſwaded, perſwaded all his friends to the timely uſe of them. He took about four ſpoonful, at four in the afternoon, and as much conſtantly after his firſt ſleep in the night.</p>
+            <p>7. Another is of a gentleman who having for a long journey furniſhed himſelf with a long ſtrong (pillar faſhioned) glaſs of the <hi>Radix</hi> (as he had formerly done) towards the end of his journey, fell in compa<g ref="char:EOLhyphen"/>ny of a Miniſter and his wife whoſe horſe threw her ſo dangerouſly, that they feared ſhe could not live but forcing her to take a little of the <hi>Radix,</hi> ſhe began to revive but when they would have her take more; ſhe could not be perſwaded till ſhe was aſſured it was no common violent water, ſo taking more of it, ſhe became perfectly well.</p>
+            <p>Another is of two gentlemen falling extream ill upon the road, in ſo much that it was thought impoſ<g ref="char:EOLhyphen"/>ſible they could go on their journey, a friend of theirs having about him a glaſs of the <hi>Radix,</hi> recovered them perfectly in an inſtant.</p>
+            <pb n="16" facs="tcp:35223:13"/>
+            <p> Another inſtance is of a gentlewoman of middle age often over toyld with buſineſs, and at ſuch times op<g ref="char:EOLhyphen"/>preſſed exceedingly with winde, weariſomeneſs and pains in head and ſtomach who finds continual bene<g ref="char:EOLhyphen"/>fit and relief by the conſtant uſe of the ſpirit of <hi>Roſe<g ref="char:EOLhyphen"/>mary,</hi> drawn in its perfection.</p>
+            <p>Another is of an ancient woman, who for ſome years hath freed her ſelf from extremity of winde, and through Gods goodneſs lives comfortably by the con<g ref="char:EOLhyphen"/>ſtant uſe of the <hi>Vis vitae.</hi>
+            </p>
+            <p>Another of a gentleman, who having always a caſe of moſt of the ſorts of the ſpirits; hath very often freed himſelf his wife and children from many ſore and threatning fits of ſickneſs; and as he believes ſaved much mony by the bargain.</p>
+            <p>Another inſtance, is of an ancient Gentlewoman above fourſcore years old, who being never without ſome of theſe ſpirits maintains a quickneſs of wit and judge<g ref="char:EOLhyphen"/>ment with good health beyond imagination.</p>
+            <p>Another is of one who having an ancient friend long troubled with weakneſs and ſickneſs, perſwaded her to uſe a pill which had often done him good; and withal adviſed her to take immediately after it a ſmall quantity of the <hi>Ra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ix,</hi> and more at diſtances of times which ſhe did; and profeſſed that though the pill wrought much yet ſhe was rather ſrrengthened and more hearty that very day then ſhe had been of long time, and ſo continued.</p>
+            <p>Another is of an elderly woman, who being under an extream fit of the mother; her husband forced her to drink largely of the <hi>Vis vitae,</hi> and recovered her to both their wonders.</p>
+            <p>Another inſtance, is of a gentlewoman about thirty,
+<pb n="17" facs="tcp:35223:13"/> that by much weakneſs, ſickneſs, and an <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pty dry Cough, having withal paſt through the whole courſe of Phyſick, and even hopeleſs of recovery, being recom<g ref="char:EOLhyphen"/>mended to the uſe of theſe Spirits (by one who had received much good by them) uſing of them about four moneths, recovered beyond all expectation.</p>
+            <p>Another inſtance is, of a Girl about ten years old, in an extream Feaver, with Thirſt, ſhortneſs of Breath, Cough, with tough Flegm, and vehement Pains in her ſide; yet in this ſad caſe ſound no relief, like to what ſhe had by continual uſe of the <hi>Radix Vitae</hi> day and night, for it cool'd and quenched her Thirſt, ſtayed her Cough, ripened her Flegm, removed her Pains, and ſhe recovered without bleeding, which every one that ſaw her, thought impoſſible.</p>
+            <p>Another inſtance, take in the expreſſions of a Let<g ref="char:EOLhyphen"/>ter written to the Author, from a Perſon of very per<g ref="char:EOLhyphen"/>fect credit: as followeth,</p>
+            <p>
+               <q>Our Dear Friend, Mr. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> was late<g ref="char:EOLhyphen"/>ly ſick to extream peril, &amp; ſundry hazardous faintings, neither could his Doctors, though two of them, and thoſe moſt eminent in their profeſſions, find out means to perſwade his pallate, to approve, or ſo much as endure the taſt of ought they could adminiſter, until his wife put him in mind of your <hi>Radix Vitae;</hi> and her ſtock being utterly ſpent, ſhe makes an addreſs to me, if I had any to ſupply it, if none, to ſend for it; well, it was my happineſs to be able to ſupply once, again, and the third little Bottle of ſome four oun<g ref="char:EOLhyphen"/>ces: The next news I hear, the Gentleman is well, and the Doctors upon taſt and experience, approve and admire the uſe of it: And I bleſs God for his Mercy that I had it for them.</q>
+            </p>
+            <pb n="18" facs="tcp:35223:14"/>
+            <p> And for a cloſe to all: the laſt inſtance ſhall be of an Honourable Perſon, who was much exerciſed in the Art of <hi>Chimeſtry;</hi> A Perſon of great worth that had good eſteem of the Spirits, deſired he would pleaſe to go with him and taſt them, which ſomewhat unwillingly he did; being there, the Gentleman that brought him, took two or three Glaſſes freely down, but could not prevail with his Noble Friend, ſo much as to taſt or ſip of them, until he perceived he was troubled at his coyneſſe; then he taſted very nicely of one of them, then drank it down, after that another, and another, and was ſo taken with them, and is to this day, that he hath made ſuch profeſſion of their pertinency to mans Health and Prolongation of Life, that its evident he deems them the higheſt of Arts attainment; affirming that he hath taſted he is confident, the beſt that either this Nation, or <hi>France,</hi> or <hi>Spain,</hi> or <hi>Italy, Ger<g ref="char:EOLhyphen"/>many,</hi> or the <hi>Netherlands</hi> affords, yet never found any ſo pleaſant, ſo powerful, and ſo friendly to mans Nature, as theſe are, and i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>geniouſly acknowledged that his averſneſs to taſt them was, for that he thought it impoſſible they could exceed what he had elſewhere taſted, his after commendations reſembling that of <hi>Ulyſſes in Homer.</hi>
+            </p>
+            <l>Had you the Odour Smelt, and ſcent it caſt,</l>
+            <l>It would have vext you to forbear the taſt,</l>
+            <l>But then (the taſt gain'd too) the ſpirit it wrought.</l>
+            <l>To dare high things, ſet up an end my thought.</l>
+            <p>And I could for a farwel, tell a true ſtory of ſome young Gentlemen, who have found out the right uſe of theſe Spirits, fortifying their Nature therewith, a<g ref="char:EOLhyphen"/>gainſt
+<pb n="19" facs="tcp:35223:14"/> the accidents attending early riſings, late ſittings up, Colds, Heats, unſeaſonable Diet, toylſome buſ<g ref="char:EOLhyphen"/>ſling in Buſineſs, and continual diſcourſe, which their occaſions ſubjects them to; all which they paſs through with ſuch Celerity and Pregnancy, in ſuiting to all Per<g ref="char:EOLhyphen"/>ſons and all affairs, that it may be rationally ſuppoſed, the expence of forty or fifty ſhillings in theſe may ad<g ref="char:EOLhyphen"/>vantage them ſome hundreds of pounds yearly, beſides the benefit of their health, the greateſt of Temporal Bleſſings.</p>
+            <p>And now having thus ſtrewed their way with ſome of the Roſes ſprung from their own virtues; It may be rationally hoped, that whereſoever they are henceforth ſpoken of, they will be treated as true and uſeful Friends: There being not the leaſt circumſtance here related, but what is reall truth, and can ſo be mani<g ref="char:EOLhyphen"/>feſted in few hours time paſt all diſpute: But if jealou<g ref="char:EOLhyphen"/>ſie ſtill remain; It muſt be concluded to proceed from their covetous Phyloſophy whoſe fear of loſs, though from never ſo groſs and putrid things, is cauſe enough to blaſt and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ifle all new Diſcoveries, though never ſo much wanted, or tranſcendently Beneficial: There being</p>
+            <l>
+               <hi>No Enemies to true Science,</hi>
+            </l>
+            <l>
+               <hi>Like</hi> Arts-men <hi>without Conſcience.</hi>
+            </l>
+            <p>How far otherwiſe they may be of uſe, theſe inſtan<g ref="char:EOLhyphen"/>ces well weighed will ſufficiently inſtruct, and Miniſter good grounds to believe that hardly any perſon of any quality, but firſt or laſt, at one time or another, may have ſpecial ſervice by them: For who is there that waſteth not daily their Natural Spirits? Who is there
+<pb n="20" facs="tcp:35223:15"/> that is not liable to the aſſaults of time and accidents? Who almoſt that feeleth not at leaſt the approaches of ſome infirmity or other? Who then would be without ſuch kindly and effectual helpers, as thoſe have ap<g ref="char:EOLhyphen"/>proved themſelves?</p>
+            <p>And although, for every one to carry a ſmall Glaſs of the <hi>Radix</hi> or <hi>Salus</hi> alwayes about them, might ſeem ridiculous to youth and daring Spirits: yet that Au<g ref="char:EOLhyphen"/>thentick <hi>Poem,</hi> both checks that humour; and (thus) highly warrants ſo diſcreet a practiſe.</p>
+            <p>
+               <hi>Canto.</hi> 6. 12.</p>
+            <lg>
+               <l>Make way, ſaid he, and give experience room;</l>
+               <l>The Confident of Age, though youth's, ſcorn'd guide</l>
+               <l>My wounds, though paſt, out-number yours to come</l>
+               <l>you can but hope, the knowledge I have try'd.</l>
+            </lg>
+            <lg>
+               <l>His Hilts round pomel, he did then unſcrew,</l>
+               <l>And thence (which he from Ancient Precept wore)</l>
+               <l>In a ſmall Chryſtal, he a Cordial drew,</l>
+               <l>That weary LIFE could to her walks reſtore.</l>
+            </lg>
+            <p>And as they are thus approv'd, ſo where great Mag<g ref="char:EOLhyphen"/>nificence and Delight draws multitudes together, were they there ſo familiar as <hi>China Oranges,</hi> the fancy would be infinitely advanced, and Nature ſecured from all fainting accidents.</p>
+            <p>But where there is daily large and great expence of Spirit, there they are abſolutely neceſſary; As after any ſtreſs of the Body, long and careful Studies, ear<g ref="char:EOLhyphen"/>neſt and loud ſpeaking, in early riſings, and late watch<g ref="char:EOLhyphen"/>ings, violent exerciſes, hazardous walkings, and dan<g ref="char:EOLhyphen"/>gerous
+<pb n="21" facs="tcp:35223:15"/> viſitations of ſick people, or in crowds and ſteaming breathings of multitudes; And where damps and noiſome vapours are to be feared, ſuch as have ſometime befaln at Goal deliveries, where for want of help at hand, many of all qualities have been ſnatcht away in a moment: in voyages of Sea, or journeys by Land or Water, their uſe is ſingularly neceſſary.</p>
+            <p>They would be alſo infinitely uſeful at the Bath, where (as Doctor <hi>Venner</hi> in his Learned Diſcourſe ob<g ref="char:EOLhyphen"/>ſerves) much prejudice is received by the common uſe of things, ordinary putrid, and burning, to the great diſparagement of thoſe admired Fountains, whil'ſt the tendereſt conſtitutions and weakeſt people, might be familiar with theſe, and continually refreſh themſelves without any after inconveniences.</p>
+            <p>As advantagious alſo would they be, were they rely<g ref="char:EOLhyphen"/>ed upon, in the uſe of <hi>Tunbridg, Epſome,</hi> or <hi>Barnet</hi> Waters, where frequently are incurred, moſt ſad in<g ref="char:EOLhyphen"/>conveniences for want of ſuch mild, ſafe, proper and powerful helpers.</p>
+            <p>And if it ſhould be affirmed, that they are more uſe<g ref="char:EOLhyphen"/>ful in Phyſick divers wayes, then can ſuddenly be ima<g ref="char:EOLhyphen"/>gined; and more proper for variation and advance<g ref="char:EOLhyphen"/>ment of Cordials and Cordial Juleps, Electuaries, <hi>&amp;c.</hi> than any thing extant, and that they deſerve to be well conſidered, and well ſtudied to thoſe intentions, 'tis no more but what frequent experience would ſtrongly plead for.</p>
+            <p>Much more might be inſiſted on, but to multiply, were to doubt the progreſs of ingenuity.</p>
+         </div>
+         <div type="postscript">
+            <pb n="22" facs="tcp:35223:16"/>
+            <head>POST-SCRIPT.</head>
+            <p>
+               <hi>AS touching the quantity that may be taken of them, except the</hi> Stella Vitae, <hi>and</hi> Ignis Vitae, <hi>a child may take out, two or three ſpoonfuls, as diſcretion will direct; and ſometimes more, allayed with Sugar does well, women in labour have taken in two hours time, two ounces of the</hi> Salus, <hi>and may of any other of them as ſafely: and to ſhew clearly their In-offenciveneſs and Innocency; It is frequent with Friends ſitting and diſ<g ref="char:EOLunhyphen"/>courſing familiarly together in two or three hours time to drink their quarterns, half pints and more a piece with great delight and after contentment.</hi>
+            </p>
+            <p>
+               <hi>The</hi> Stella <hi>and the</hi> Ignis, <hi>may be taken a ſpoonful or two or more, without danger, if the Parties can take it.</hi>
+            </p>
+         </div>
+         <div type="poem">
+            <head>Upon the Inventor of the Moderate Spirits.</head>
+            <l>VVIt went wool-gathering theſe many years.</l>
+            <l>And <hi>Englands</hi> Hippocrene was turn'd to tears.</l>
+            <l>The Muſes choak'd with ſmoak and foggy Ale</l>
+            <l>Croaked in Styx: but now a wholſome gale</l>
+            <l>From th'Authours Spirits, ſo refreſheth us</l>
+            <l>That we may ſtyle him <hi>Englands</hi> Pegaſus,</l>
+            <l>Reſtorer of the Heliconian ſpring,</l>
+            <l>Where the revived Siſters chirp and ſing.</l>
+            <l>Where's Phyſick for to cure our feeble age</l>
+            <l>Of Surfets from the crambe of the ſtage,</l>
+            <l>And keep our Laurel green, that actors lack</l>
+            <l>No more ſupplyes from the <hi>old ſons</hi> of ſack.</l>
+            <closer>
+               <signed>W. ROWLAND. M. D.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="23" facs="tcp:35223:16"/>
+            <head>
+               <hi>Upon Mr.</hi> W. W. <hi>his incomparable</hi> Moderate Spirits; <hi>The happy Ammunition of this new Store-houſe.</hi>
+            </head>
+            <l>IN Surfets, Agues, or when Cold doth nip,</l>
+            <l>Of ſweet <hi>Amicus Vitae,</hi> take a ſip.</l>
+            <l>If in thy Guts or Stomack thou perceive</l>
+            <l>Any diſtemper; <hi>Sanguis</hi> will releive.</l>
+            <l>If Heart be faint, or if thy Meat thou loath,</l>
+            <l>Call for <hi>Adjutrix,</hi> ſhe is good in both.</l>
+            <l>In Dropſie, Scurvey, Gravel, Spleen, and Wind,</l>
+            <l>Keep to <hi>Vis Vitae,</hi> and thou cure ſhalt find.</l>
+            <l>In Falling-ſickneſs or Convulſion</l>
+            <l>Make <hi>Succus Vitae,</hi> thy Companion.</l>
+            <l>In Rickets, VVorms, Green-ſickneſs, Mother-fits</l>
+            <l>
+               <hi>Lac Vitae</hi> 's beſt, and each diſtemper hits.</l>
+            <l>In Coughs, ſhort Breath, Vomiting, Looſeneſs, Pain,</l>
+            <l>Take <hi>Radix Vitae</hi> if thou cure wilt gain.</l>
+            <l>In a Conſumption if thou'lt ſave thy Purſe,</l>
+            <l>Let pleaſant <hi>Nutrix Vitae</hi> be thy Nurſe.</l>
+            <l>In Plague time or in great infection, note</l>
+            <l>That <hi>Salus Vitae</hi> is <hi>the</hi> Antidote.</l>
+            <l>Is thy Back weak for which dame Nature groans?</l>
+            <l>
+               <hi>Medulla</hi> take, ſhe's marrow for thy bones.</l>
+            <l>Doth Melancholly, Grief, or Care oppreſs,</l>
+            <l>Make rare <hi>Deliciae</hi> thy Miſtreſs.</l>
+            <l>Keep <hi>Stella</hi> by thee if to ſwound thou'rt bent,</l>
+            <l>And <hi>Ignis</hi> if thou'lt Lethargyes prevent.</l>
+            <l>If theſe thou haſt, or them to Sea doſt carry,</l>
+            <l>Thou art both Doctor and Apothecary.</l>
+            <l>They'r cheap and by experience wond'rous rare;</l>
+            <l>Buy them: or wiſh at Sea, thou hadſt them there.</l>
+            <closer>
+               <signed>W. ROWLAND. M. D.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="24" facs="tcp:35223:17"/>
+            <head>
+               <hi>To his honoured Friend, the</hi> Aut<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ur, <hi>upon his uſeful Book, and admirable Life-preſerving</hi> Spirits.</head>
+            <lg>
+               <l>FOR many years dull <hi>Ignorance</hi> did keep</l>
+               <l>The <hi>hood-wink't</hi> world in lazie, careleſs, ſleep:</l>
+               <l>Poor <hi>Mortals</hi> then deſir'd to know no more,</l>
+               <l>Then what was known two <hi>Centuries</hi> before</l>
+               <l>They breath'd this air: Then did all ſecrets dwell</l>
+               <l>In the obſcure <hi>receſſes</hi> of a <hi>Cell;</hi>
+               </l>
+               <l>All learning likewiſe (if there any were)</l>
+               <l>Took up a quiet, retir'd <hi>manſion</hi> there;</l>
+               <l>Then <hi>Ignorance</hi> and cold <hi>Stupidity</hi>
+               </l>
+               <l>Triumphing ſat in greateſt Majeſty.</l>
+            </lg>
+            <lg>
+               <l>But afterwards pure <hi>Learning</hi>'s riſing <hi>light</hi>
+               </l>
+               <l>Diſpell'd the ſhades of this obſcurer <hi>Night,</hi>
+               </l>
+               <l>This foggy <hi>night</hi> of loathſome <hi>Ignorance,</hi>
+               </l>
+               <l>And once again did bravely re-advance</l>
+               <l>
+                  <hi>Philoſophy,</hi> and all her radiant Rays,</l>
+               <l>Producing a clear <hi>Skie</hi> of <hi>Knowing Days;</hi>
+               </l>
+               <l>Which ſtill are croſt with the unhappy <hi>Fate</hi>
+               </l>
+               <l>Of thinking all things bad, but what the <hi>State</hi>
+               </l>
+               <l>Of <hi>Learning</hi> (though in darker times) contriv'd</l>
+               <l>Long ſince; condemning all, but what hath liv'd</l>
+               <l>In the old Volums of the <hi>Stagarite,</hi>
+               </l>
+               <l>Or in thoſe other <hi>Galen</hi> once did write.</l>
+            </lg>
+            <lg>
+               <l>If to the <hi>Ancients,</hi> ancient times had been</l>
+               <l>So inauſpicious, our Dayes had not ſeen</l>
+               <l>Their many <hi>now inventions,</hi> which did grow</l>
+               <l>From long, and try'd Experience; for know</l>
+               <l>Their rare productions <hi>new inventions</hi> were,</l>
+               <l>When they did write them, and remained here.</l>
+            </lg>
+            <lg>
+               <l>Let then our knowing and quick-ſighted dayes</l>
+               <l>Be kind to ſafe (though here un-practiſ'd) wayes</l>
+               <pb n="25" facs="tcp:35223:17"/>
+               <l> Of health; condemn them not, except thou ſhew</l>
+               <l>Some other reaſon; then, <hi>becauſe they're new.</hi>
+               </l>
+               <l>New Aids were wanting; Theſe are a large ſupplie,</l>
+               <l>Who e're denies it, doth the truth defie;</l>
+               <l>Yet think not, <hi>Sir,</hi> your Mod'rate Spirits ſhall,</l>
+               <l>By ſelfiſh Int'reſts be approv'd at all,</l>
+               <l>They being poſſeſt with Qualities ſo rare,</l>
+               <l>As to exhale their profit into air:</l>
+               <l>Your <hi>matchleſs Spirits</hi> were (for ought we know)</l>
+               <l>The true <hi>Ambroſia</hi> and the <hi>Nectar</hi> too,</l>
+               <l>Antiquity doth ſo applaud, which <hi>Jove</hi>
+               </l>
+               <l>And all the other <hi>Powers</hi> ſo much did love.</l>
+            </lg>
+            <lg>
+               <l>Theſe quickning Spirits I am almoſt bold</l>
+               <l>To think reſerv'd were, till the world grew old</l>
+               <l>By <hi>Providence;</hi> for if they had been known</l>
+               <l>Long ſince, the world to ſuch a bulk had grown</l>
+               <l>By their Life-ſtrengthening vertue, that it might</l>
+               <l>E're this (perhaps) have ſunk with its own weight.</l>
+            </lg>
+            <closer>
+               <signed>WILL. SMITH, late of C. Hall, Cam.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>Upon certain knowledge of the Uſefulneſs of theſe Spirits in Diet, Phyſick, and Refreſhment.</head>
+            <l>
+               <hi>I</hi> Muſt confeſs if I but ſpeak what's right,</l>
+            <l>They are the neateſt ayds e're brought to light.</l>
+            <l>
+               <hi>Galen</hi> or <hi>Paracelſus,</hi> were th'alive,</l>
+            <l>VViſhing (as ſure they did) the Art ſhould thrive,</l>
+            <l>Gladly would entertain them, as the juſt mean</l>
+            <l>Highly to ſtrengthen man, yet ſhun th'extream</l>
+            <l>Of an unkindly heat, and them commend</l>
+            <l>To general uſe, as bound more to intend</l>
+            <l>Their Patients welfare, than the vnineſteem</l>
+            <l>Of being ſole Authours of what e're were ſeen,</l>
+            <l>VVe know for want of ſuch how moſt abuſe</l>
+            <pb n="26" facs="tcp:35223:18"/>
+            <l> Their healths with putrid things of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mmon uſe;</l>
+            <l>At which who wink, and paſs it ſilen<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y,</l>
+            <l>Are guilty of thoſe ills which come thereby;</l>
+            <l>VVhereof I am reſolv'd my ſelf to free,</l>
+            <l>And to promote what's good whos'ere it be.</l>
+            <closer>
+               <signed>R. B. M.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>An Experimental Probat of theſe ex<g ref="char:EOLhyphen"/>quiſite Spirits.</head>
+            <lg>
+               <l>IS it not a fair deſign,</l>
+               <l>To advance the Muſes nine,</l>
+               <l>Above the heigth of richeſt wine,</l>
+               <l>Now in wit's obſtructed time?</l>
+            </lg>
+            <lg>
+               <l>Rare have been th'effects of Sack,</l>
+               <l>But, or the old Writers ſtill we lack,</l>
+               <l>Or why? no more of thoſe? alack!</l>
+               <l>Sack can no more, though brain ſhould crack.</l>
+            </lg>
+            <lg>
+               <l>Yet for ſupply, loe here you have</l>
+               <l>A fountain, will <hi>wit's credit</hi> ſave.</l>
+               <l>Of this new Helicon, then freely Lave,</l>
+               <l>And Merit All, True Poets crave.</l>
+            </lg>
+            <closer>
+               <signed>W. N.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>
+               <hi>On Mr.</hi> W. W. <hi>his Gentle Spirits.</hi>
+            </head>
+            <l>OF all thoſe Spirits which the Chymic Art,</l>
+            <l>Or the Apothecarie's ſhops impart;</l>
+            <l>For Pureneſs, Mildneſs, Taſte, and Vertues rare,</l>
+            <l>There's none that with theſe Spirits may compare.</l>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Auguſt</hi> 27. 1661.</date>
+               </dateline>
+               <signed>WILLIAM RAND, Dr. of Phyſick and the Liberal Arts.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35223:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
